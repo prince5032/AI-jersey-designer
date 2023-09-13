@@ -1,8 +1,9 @@
 # AI-jersey-designer
 ✨About Project:
 
-• Technologies used - React.js, Rest Api, Html, Css, MaterialUI
+• Technologies used - Html, TailwindCSS, React.js, Node.js, Threejs, RestApi
 
-• Provides cryptocurrency trends and real-time data on coin prices, market capitalization, and trading volume.
+• The OpenAI API is used to develop an AI 3D T-shirt designer that allows users to easily customize logos and experiment with various colors in real-time.
 
-• Enhances navigation with data filtering, pagination, and INR to USD currency conversion. Interface is optimized with interactive charts and visualizations for displaying coin
+• Capabilities to offer personalized design based on user preferences.
+
